@@ -1,0 +1,24 @@
+.cardm {
+    border: 1px solid #e6fffc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 15px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .cardm h2 {
+    margin-bottom: 10px;
+  }
+  
+  .cardm img {
+    width: 14%;
+    height: auto; 
+    display: block; 
+    margin: 0 auto; 
+    border-radius: 8px;
+    margin-bottom: 10px;
+    
+
+    
+  }
